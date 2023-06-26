@@ -8,7 +8,7 @@ const devOnlyPlugins = [getStartedPlugin()]
 
 export default defineConfig({
   name: 'default',
-  title: 'green-moose',
+  title: 'DonutsInBelly.com',
 
   projectId: '91efs7mg',
   dataset: 'production',
@@ -19,4 +19,3 @@ export default defineConfig({
     types: schemaTypes,
   },
 })
-
